@@ -1,0 +1,112 @@
+{
+    "anims": [
+        {
+            "key": "warrior_walk",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "warrior",
+                    "frame": "warrior_walk_0"
+                },
+                {
+                    "key": "warrior",
+                    "frame": "warrior_walk_1"
+                },
+                {
+                    "key": "warrior",
+                    "frame": "warrior_walk_2"
+                },
+                {
+                    "key": "warrior",
+                    "frame": "warrior_walk_3"
+                },
+                {
+                    "key": "warrior",
+                    "frame": "warrior_walk_4"
+                },
+                {
+                    "key": "warrior",
+                    "frame": "warrior_walk_5"
+                },
+                {
+                    "key": "warrior",
+                    "frame": "warrior_walk_6"
+                },
+                {
+                    "key": "warrior",
+                    "frame": "warrior_walk_7"
+                },
+                {
+                    "key": "warrior",
+                    "frame": "warrior_walk_8"
+                }
+            ]
+        },
+        {
+            "key": "warrior_jump",
+            "type": "frames",
+            "repeat": 1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "warrior",
+                    "frame": "warrior_jump_0"
+                }
+            ]
+        },
+        {
+            "key": "warrior_attack_sword",
+            "type": "frames",
+            "repeat": 0,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "warrior",
+                    "frame": "warrior_attack_sword_0"
+                },
+                {
+                    "key": "warrior",
+                    "frame": "warrior_attack_sword_1"
+                },
+                {
+                    "key": "warrior",
+                    "frame": "warrior_attack_sword_2"
+                },
+                {
+                    "key": "warrior",
+                    "frame": "warrior_attack_sword_3"
+                },
+                {
+                    "key": "warrior",
+                    "frame": "warrior_attack_sword_4"
+                },
+                {
+                    "key": "warrior",
+                    "frame": "warrior_attack_sword_5"
+                },
+                {
+                    "key": "warrior",
+                    "frame": "warrior_attack_sword_6"
+                }
+            ]
+        },
+        {
+            "key": "warrior_idle",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 3,
+            "frames": [
+                {
+                    "key": "warrior",
+                    "frame": "warrior_idle_0"
+                },
+                {
+                    "key": "warrior",
+                    "frame": "warrior_idle_1"
+                }
+            ]
+        }
+    ]
+}

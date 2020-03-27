@@ -1,0 +1,40 @@
+{
+    "anims": [
+        {
+            "key": "demon_peon_bullet",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "demon_peon_bullet",
+                    "frame": "demon_peon_40"
+                },
+                {
+                    "key": "demon_peon_bullet",
+                    "frame": "demon_peon_41"
+                },
+                {
+                    "key": "demon_peon_bullet",
+                    "frame": "demon_peon_42"
+                },
+                {
+                    "key": "demon_peon_bullet",
+                    "frame": "demon_peon_43"
+                },
+                {
+                    "key": "demon_peon_bullet",
+                    "frame": "demon_peon_44"
+                },
+                {
+                    "key": "demon_peon_bullet",
+                    "frame": "demon_peon_45"
+                },
+                {
+                    "key": "demon_peon_bullet",
+                    "frame": "demon_peon_46"
+                }
+            ]
+        }
+    ]
+}
